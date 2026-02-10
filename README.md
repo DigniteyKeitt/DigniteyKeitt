@@ -2,9 +2,8 @@
 
 <!--
 **DigniteyKeitt/DigniteyKeitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
+Here Some Info About Me:
 - 🔭 I’m currently working on ...Discrete Math
 - 🌱 I’m currently learning ... Discrete Math, Stats and Prob, and Unix
 - 👯 I’m looking to collaborate on ...
